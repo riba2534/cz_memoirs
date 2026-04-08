@@ -93,6 +93,10 @@ export default defineConfig({
       next: '下一章',
     },
 
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/riba2534/cz_memoirs' },
+    ],
+
     darkModeSwitchLabel: '外观',
     sidebarMenuLabel: '目录',
     returnToTopLabel: '返回顶部',
