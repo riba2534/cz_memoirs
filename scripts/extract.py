@@ -173,25 +173,39 @@ def process_text(text, title):
         paragraphs.append("".join(current_para))
 
     # Post-process: detect sub-section headers
-    # A paragraph that is short (<30 chars), doesn't end with punctuation,
-    # and is surrounded by longer paragraphs is likely a header
+    # Must be: 4+ chars, no ending punctuation, surrounded by longer paragraphs,
+    # and not a single word / table cell
+    TABLE_CELL_WORDS = {"高", "低", "中", "无", "是", "否", "好", "差", "有", "大", "小"}
     processed = []
     for i, para in enumerate(paragraphs):
+        # Remove empty list items
+        if para.strip() == "-" or para.strip() == "- ":
+            continue
         if para.startswith("- "):
             processed.append(para)
             continue
 
-        # Detect sub-section headers
-        is_short = len(para) < 40
-        no_end_punct = not para[-1] in SENTENCE_ENDERS if para else True
-        not_quote = not para.startswith(("\u300c", "\u300e", "\u300a", "\u201c"))
-        has_content_around = (i > 0 and i < len(paragraphs) - 1)
+        # Skip empty paragraphs
+        if not para.strip():
+            continue
 
-        if is_short and no_end_punct and not_quote and has_content_around:
-            # Check it's not just a short regular sentence
-            if not any(c in para for c in "，、；："):
-                processed.append(f"\n## {para}\n")
-                continue
+        # Detect sub-section headers: strict criteria
+        stripped = para.strip()
+        is_header_length = 4 <= len(stripped) <= 30  # min 4 chars to avoid table cells
+        no_end_punct = stripped[-1] not in SENTENCE_ENDERS if stripped else True
+        not_quote = not stripped.startswith(("\u300c", "\u300e", "\u300a", "\u201c"))
+        has_content_around = (i > 0 and i < len(paragraphs) - 1)
+        not_table_cell = stripped not in TABLE_CELL_WORDS
+        # Require neighbors to be actual paragraphs (>20 chars)
+        prev_is_para = i > 0 and len(paragraphs[i-1]) > 20
+        next_is_para = i < len(paragraphs) - 1 and len(paragraphs[i+1]) > 20
+
+        if (is_header_length and no_end_punct and not_quote and
+                has_content_around and not_table_cell and
+                (prev_is_para or next_is_para) and
+                not any(c in stripped for c in "，、；：（）")):
+            processed.append(f"\n## {stripped}\n")
+            continue
 
         processed.append(para)
 

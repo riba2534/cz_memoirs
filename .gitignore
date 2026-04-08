@@ -1,6 +1,6 @@
 node_modules/
-.vitepress/dist/
-.vitepress/cache/
+site/.vitepress/dist/
+site/.vitepress/cache/
 .venv/
 __pycache__/
 *.pyc
