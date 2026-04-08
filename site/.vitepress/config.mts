@@ -5,6 +5,7 @@ export default defineConfig({
   title: '币安人生',
   description: '幸运、韧性与保护用户的回忆录 — 赵长鹏自传',
   base: '/',
+  cleanUrls: false,
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
