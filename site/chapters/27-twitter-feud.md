@@ -41,8 +41,9 @@ title: "番外：Twitter 风暴"
   <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.03</span>CZ 宣布《Freedom of Money》下周发布</div>
   <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.08</span>徐明星甩出 12 年前 v7 / v8 合约的 YouTube 取证视频</div>
   <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.09</span>CZ 10 亿对赌 → 徐明星追击 → 何一组合拳 → Star 深夜拒赌</div>
+  <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.10 01:05</span>OKX 九妹 @Cryptosis9_OKX 凌晨首发「虚张声势 + 声东击西」长文</div>
   <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.10 04:27</span>何一「一举六得」千字长文反戈</div>
-  <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.10 08:45</span>OKX 九妹 @Cryptosis9_OKX 亲自下场 4 点反驳</div>
+  <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.10 08:45</span>九妹 4 点正面反驳「一举六得」</div>
 </div>
 
 ## 背景书摘：第 9 章《北京岁月》
@@ -189,15 +190,31 @@ CZ 这一周高频预告书的发布——捐给慈善、书名由来、与 @sco
 
 <div class="tweet-card tweet-card--star tweet-card--highlight"><div class="tweet-card__head"><img class="tweet-card__avatar" src="/images/twitter-feud/avatar-star.jpg" alt="Star_OKX"><div class="tweet-card__meta"><div class="tweet-card__name">Star_OKX <span class="tweet-card__verified">✓</span></div><div class="tweet-card__handle">@star_okx · 2026-04-09 23:47 UTC</div></div><svg class="tweet-card__logo" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div><div class="tweet-card__body">Again, as the CEO of OKX, given our compliance culture, I am not in a position to engage in this kind of public “betting.” As a reminder, gambling is also not permitted for UAE citizens.<br><br>I have no interest in your private life — including your relationships. That is entirely your personal matter.<br><br>However, when multiple false statements made in books and public interviews mislead the public — and some of those statements involve me — I have the right to challenge them and clarify the facts.<br><br>Verifying the facts and timeline of a divorce is straightforward. The separation of family assets, including company stakes, is not only a legal requirement in many jurisdictions, but also a basic ethical responsibility — especially after a 20-year marriage. If this responsibility is not fulfilled, it raises serious questions about credibility and integrity.</div><div class="tweet-card__body tweet-card__body--zh">再说一遍：作为 OKX 的 CEO，基于我们公司的合规文化，我不适合参与这种公开「对赌」的游戏。但如果你真的有诚意，请让你的律师把经双方签字的离婚协议正式发送给我们的律师——只要文件是真的，我会立即公开道歉。<br><br>至于你在书和媒体上对我和我公司的其他攻击，我也会通过合法合规的渠道逐一回应。</div><div class="tweet-card__quoted"><div class="tweet-card__quoted-head">↳ 引用 <strong>@cz_binance</strong> · 04-09 17:33 UTC</div><div class="tweet-card__quoted-body">As I said, "or any number you choose", big or small.<br><br>Time to own it like a man and apologize. Don't try to divert topics, with more false attacks. <br><br>Who is doing the "misled the public and lie to world?"<br><br>"Binance stake" is none of your business.<br><br>Anyway, wasted enough of my time already. Back to ignore mode. Not worth my time.</div></div><div class="tweet-card__metrics"><span>💬 708</span><span>🔁 48</span><span>❤️ 836</span><span>👁 30.7 万</span></div><a class="tweet-card__link" href="https://x.com/star_okx/status/2042389031955415448" target="_blank" rel="noopener">查看原推 →</a></div>
 
-## 第九幕：2026.04.10 04:27，何一「一举六得」长文反戈
+## 第九幕：2026.04.10，OKX 九妹连发 5 推下场
 
 <div class="feud-day"><span class="feud-day__label">2026 / 04 / 10</span></div>
+
+<div class="feud-act"><strong>九 妹 开 场</strong></div>
+
+<div class="feud-note">
+
+4 月 10 日凌晨开始，OKX 老员工九妹（@Cryptosis9_OKX）第一个从 OKX 一侧下场，5 条推文分三波：凌晨的「虚张声势 + 声东击西」长文分析、上午的短讽回击、下午 08:45 的 4 点正面反驳何一「一举六得」长文。
+
+</div>
+
+<div class="tweet-card tweet-card--ninemei"><div class="tweet-card__head"><img class="tweet-card__avatar" src="/images/twitter-feud/avatar-9mei.jpg" alt="九妹-OKX"><div class="tweet-card__meta"><div class="tweet-card__name">九妹-OKX <span class="tweet-card__verified">✓</span></div><div class="tweet-card__handle">@Cryptosis9_OKX · 2026-04-10 01:05 UTC</div></div><svg class="tweet-card__logo" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div><div class="tweet-card__body">赌10亿离婚？是明明知道受监管公司不可能接这种赌约，这叫虚张声势。<br><br>先在新书里胡编，再在推上赌约造势，等舆论炒热了，他们编的故事就自动变成“坊间流传的事实”了。<br><br>手法很熟练：把水搅浑，把假的说成真的——至于2026年3月澳大利亚刚判下来的1000万澳元（690万美元）罚款、同月美国司法部对超10亿美元伊朗关联资金启动的正式调查、还有举报这些问题的合规员工反遭解雇，这些真正的监管警报，反倒没人盯着看了。<br><br>声东击西，这招确实高明。可惜，书能乱写，赌约能乱喊，互联网的搜索记录和法院的罚单骗不了人。</div><div class="tweet-card__metrics"><span>💬 37</span><span>🔁 4</span><span>❤️ 99</span><span>👁 1.3 万</span></div><a class="tweet-card__link" href="https://x.com/Cryptosis9_OKX/status/2042408507077771473" target="_blank" rel="noopener">查看原推 →</a></div>
+
+<div class="tweet-card tweet-card--ninemei"><div class="tweet-card__head"><img class="tweet-card__avatar" src="/images/twitter-feud/avatar-9mei.jpg" alt="九妹-OKX"><div class="tweet-card__meta"><div class="tweet-card__name">九妹-OKX <span class="tweet-card__verified">✓</span></div><div class="tweet-card__handle">@Cryptosis9_OKX · 2026-04-10 01:07 UTC</div></div><svg class="tweet-card__logo" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div><div class="tweet-card__body">@star_okx 突然想到一個角度，出书与赌约，是不是在給10亿伊朗资金调查、澳洲690万罚款等真正的监管雷区打掩护。很典型的声东击西。突然別人最擅長的事情！差點被繞進去</div><div class="tweet-card__metrics"><span>💬 13</span><span>🔁 0</span><span>❤️ 15</span><span>👁 4,101</span></div><a class="tweet-card__link" href="https://x.com/Cryptosis9_OKX/status/2042409000260812984" target="_blank" rel="noopener">查看原推 →</a></div>
+
+<div class="tweet-card tweet-card--ninemei"><div class="tweet-card__head"><img class="tweet-card__avatar" src="/images/twitter-feud/avatar-9mei.jpg" alt="九妹-OKX"><div class="tweet-card__meta"><div class="tweet-card__name">九妹-OKX <span class="tweet-card__verified">✓</span></div><div class="tweet-card__handle">@Cryptosis9_OKX · 2026-04-10 01:10 UTC</div></div><svg class="tweet-card__logo" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div><div class="tweet-card__body">@BitKnow_ @star_okx 對啊，輕鬆的就讀10億美金的賭閱，可能他們的錢都是大風刮來了的？</div><div class="tweet-card__metrics"><span>💬 4</span><span>🔁 0</span><span>❤️ 3</span><span>👁 786</span></div><a class="tweet-card__link" href="https://x.com/Cryptosis9_OKX/status/2042409912878444751" target="_blank" rel="noopener">查看原推 →</a></div>
+
+## 第十幕：2026.04.10 04:27，何一「一举六得」长文反戈
 
 <div class="feud-act"><strong>何 一 长 推</strong></div>
 
 <div class="feud-note">
 
-这是何一的高潮回应——一千字长文，列出徐明星这场攻击背后的「一举六得」六层算计，直接把话题从「CZ 婚姻」扳回「OKX 用碰瓷抢市场份额」。这条推文直接触发了 4 小时后 OKX 员工 @Cryptosis9_OKX（九妹）亲自下场反击。
+这是何一的高潮回应——一千字长文，列出徐明星这场攻击背后的「一举六得」六层算计，直接把话题从「CZ 婚姻」扳回「OKX 用碰瓷抢市场份额」。这条推文直接触发了 4 小时后 OKX 员工 @Cryptosis9_OKX（九妹）亲自下场的 4 点正面反驳。
 
 </div>
 
@@ -207,13 +224,15 @@ CZ 这一周高频预告书的发布——捐给慈善、书名由来、与 @sco
 
 <div class="tweet-card tweet-card--heyi"><div class="tweet-card__head"><img class="tweet-card__avatar" src="/images/twitter-feud/avatar-heyi.jpg" alt="Yi He"><div class="tweet-card__meta"><div class="tweet-card__name">Yi He <span class="tweet-card__verified">✓</span></div><div class="tweet-card__handle">@heyibinance · 2026-04-10 04:45 UTC</div></div><svg class="tweet-card__logo" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div><div class="tweet-card__body">@zhexiashufule @cz_binance @star_okx 真相了。</div><div class="tweet-card__metrics"><span>💬 65</span><span>🔁 1</span><span>❤️ 42</span><span>👁 1.2 万</span></div><a class="tweet-card__link" href="https://x.com/heyibinance/status/2042464003092283448" target="_blank" rel="noopener">查看原推 →</a></div>
 
-## 第十幕：2026.04.10 08:45，OKX 九妹亲自下场
+<div class="tweet-card tweet-card--ninemei"><div class="tweet-card__head"><img class="tweet-card__avatar" src="/images/twitter-feud/avatar-9mei.jpg" alt="九妹-OKX"><div class="tweet-card__meta"><div class="tweet-card__name">九妹-OKX <span class="tweet-card__verified">✓</span></div><div class="tweet-card__handle">@Cryptosis9_OKX · 2026-04-10 07:18 UTC</div></div><svg class="tweet-card__logo" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div><div class="tweet-card__body">@Gautama__Buddha @star_okx 学不会“泼妇行为”呀，文明是原罪！</div><div class="tweet-card__metrics"><span>💬 23</span><span>🔁 0</span><span>❤️ 7</span><span>👁 1,811</span></div><a class="tweet-card__link" href="https://x.com/Cryptosis9_OKX/status/2042502471361441987" target="_blank" rel="noopener">查看原推 →</a></div>
 
-<div class="feud-act"><strong>O K X 九 妹 接 力</strong></div>
+## 第十一幕：2026.04.10 08:45，九妹 4 点反驳「一举六得」
+
+<div class="feud-act"><strong>九 妹 正 面 回 应</strong></div>
 
 <div class="feud-note">
 
-何一那条「一举六得」长文点燃了 OKX 团队。OKX 老员工九妹（@Cryptosis9_OKX）在 4 小时后发出 4 点反驳，主攻 1011 事件、BNB 链 MEME、合规、首富叙事——把战线从「3 位老板互撕」扩大为「两家公司的 PR 对冲」。她在推文中直接贴出何一长文的截图作为被回应的对象。
+何一那条「一举六得」长文点燃了 OKX 团队。九妹在 4 小时后发出 4 点反驳，主攻 1011 事件、BNB 链 MEME、合规、首富叙事——把战线从「3 位老板互撕」扩大为「两家公司的 PR 对冲」。她在推文中直接贴出何一长文的截图作为被回应的对象。
 
 </div>
 

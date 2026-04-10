@@ -131,6 +131,10 @@ TRANSLATIONS = {
 
     # OKX 九妹 4.10 反击
     '2042524484167700755': '',  # already Chinese, bilingual not needed
+    '2042408507077771473': '',  # already Chinese
+    '2042409000260812984': '',
+    '2042409912878444751': '',
+    '2042502471361441987': '',
 }
 
 # Which tweets should be highlighted (major turning points)
@@ -183,16 +187,21 @@ STAGE_MARKERS = {
         'act': '深 夜 回 应',
         'title': '## 第八幕：2026.04.09 23:47，徐明星婉拒对赌',
     },
+    '2042408507077771473': {
+        'act': '九 妹 开 场',
+        'title': '## 第九幕：2026.04.10，OKX 九妹连发 5 推下场',
+        'day': '2026 / 04 / 10',
+        'note': '4 月 10 日凌晨开始，OKX 老员工九妹（@Cryptosis9_OKX）第一个从 OKX 一侧下场，5 条推文分三波：凌晨的「虚张声势 + 声东击西」长文分析、上午的短讽回击、下午 08:45 的 4 点正面反驳何一「一举六得」长文。',
+    },
     '2042459400296685583': {
         'act': '何 一 长 推',
-        'title': '## 第九幕：2026.04.10 04:27，何一「一举六得」长文反戈',
-        'day': '2026 / 04 / 10',
-        'note': '这是何一的高潮回应——一千字长文，列出徐明星这场攻击背后的「一举六得」六层算计，直接把话题从「CZ 婚姻」扳回「OKX 用碰瓷抢市场份额」。这条推文直接触发了 4 小时后 OKX 员工 @Cryptosis9_OKX（九妹）亲自下场反击。',
+        'title': '## 第十幕：2026.04.10 04:27，何一「一举六得」长文反戈',
+        'note': '这是何一的高潮回应——一千字长文，列出徐明星这场攻击背后的「一举六得」六层算计，直接把话题从「CZ 婚姻」扳回「OKX 用碰瓷抢市场份额」。这条推文直接触发了 4 小时后 OKX 员工 @Cryptosis9_OKX（九妹）亲自下场的 4 点正面反驳。',
     },
     '2042524484167700755': {
-        'act': 'O K X 九 妹 接 力',
-        'title': '## 第十幕：2026.04.10 08:45，OKX 九妹亲自下场',
-        'note': '何一那条「一举六得」长文点燃了 OKX 团队。OKX 老员工九妹（@Cryptosis9_OKX）在 4 小时后发出 4 点反驳，主攻 1011 事件、BNB 链 MEME、合规、首富叙事——把战线从「3 位老板互撕」扩大为「两家公司的 PR 对冲」。她在推文中直接贴出何一长文的截图作为被回应的对象。',
+        'act': '九 妹 正 面 回 应',
+        'title': '## 第十一幕：2026.04.10 08:45，九妹 4 点反驳「一举六得」',
+        'note': '何一那条「一举六得」长文点燃了 OKX 团队。九妹在 4 小时后发出 4 点反驳，主攻 1011 事件、BNB 链 MEME、合规、首富叙事——把战线从「3 位老板互撕」扩大为「两家公司的 PR 对冲」。她在推文中直接贴出何一长文的截图作为被回应的对象。',
     },
 }
 
@@ -407,8 +416,9 @@ title: "番外：Twitter 风暴"
   <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.03</span>CZ 宣布《Freedom of Money》下周发布</div>
   <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.08</span>徐明星甩出 12 年前 v7 / v8 合约的 YouTube 取证视频</div>
   <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.09</span>CZ 10 亿对赌 → 徐明星追击 → 何一组合拳 → Star 深夜拒赌</div>
+  <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.10 01:05</span>OKX 九妹 @Cryptosis9_OKX 凌晨首发「虚张声势 + 声东击西」长文</div>
   <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.10 04:27</span>何一「一举六得」千字长文反戈</div>
-  <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.10 08:45</span>OKX 九妹 @Cryptosis9_OKX 亲自下场 4 点反驳</div>
+  <div class="feud-axis__node feud-axis__node--hot"><span class="feud-axis__date">2026.04.10 08:45</span>九妹 4 点正面反驳「一举六得」</div>
 </div>
 
 ## 背景书摘：第 9 章《北京岁月》
