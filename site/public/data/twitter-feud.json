@@ -1015,5 +1015,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "2043403499573010534",
+    "author": "Yi He",
+    "screen_name": "heyibinance",
+    "text": "宝藏吴米，你就像哆啦A梦，什么都有啊？\n视频完整的呈现了准备出发的CZ，BNB破发后开播的CZ。",
+    "created_at": "Sun Apr 12 18:58:53 +0000 2026",
+    "created_at_iso": "2026-04-12 18:58 UTC",
+    "likes": 259,
+    "retweets": 20,
+    "replies": 132,
+    "views": 45574,
+    "url": "https://x.com/heyibinance/status/2043403499573010534",
+    "quoted_tweet": {
+      "id": "2043366229524861098",
+      "author": "Sure5J吴米",
+      "screen_name": "Sure5J",
+      "text": "https://t.co/jLDe5ilHXR",
+      "created_at": "Sun Apr 12 16:30:47 +0000 2026",
+      "created_at_iso": "2026-04-12 16:30 UTC",
+      "likes": 45,
+      "retweets": 8,
+      "replies": 17,
+      "views": 46782,
+      "url": "https://x.com/Sure5J/status/2043366229524861098"
+    }
   }
 ]

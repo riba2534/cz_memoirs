@@ -147,6 +147,9 @@ TRANSLATIONS = {
         '来自 Forbes 的报道，有好有坏的评价都有。\n\n「《Freedom of Money: A Memoir of Protecting Users, Resilience, and the Founding of Binance》[...] 已在 Amazon Kindle 上架，售价 9.99 美元，目前已经是 Kindle 全站排行第 4 名。」\n\n上架才 3 天。🤣',
     '2042989574394466811': '',  # 九妹 15:34 CN 暗讽
 
+    # 4.12 何一感慨 CZ 往事视频
+    '2043403499573010534': '',  # 何一 4.12 18:58 "准备出发的 CZ，BNB 破发后开播的 CZ"
+
     # 4.10 九妹 clean-up 跟推
     '2042410307092693258': '',  # 01:12 "被颠倒是非写进书里"
     '2042416393786950075': '',  # 01:36 "烤火" 比喻
